@@ -6,4 +6,5 @@ export default defineConfig({
     enabled: false,
   },
   integrations: [tutorialkit()],
+  base: '/nodejs_tutorials',
 });
