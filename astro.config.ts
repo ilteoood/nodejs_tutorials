@@ -5,6 +5,5 @@ export default defineConfig({
   devToolbar: {
     enabled: false,
   },
-  integrations: [tutorialkit()],
-  base: '/nodejs_tutorials',
+  integrations: [tutorialkit()]
 });
