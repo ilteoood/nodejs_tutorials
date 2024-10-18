@@ -17,3 +17,5 @@ We will learn how to read a file in Node.js using the `fs.readFileSync()` method
 It takes two parameters: the path to the file and an encoding type.
 
 The file we are going to is called `file.txt`, while the encoding type is `utf-8`.
+
+For additional informations, please check out the [official documentation](https://nodejs.org/api/fs.html#fsreadfilesyncpath-options).
