@@ -8,4 +8,6 @@ terminal:
     activePanel: 1
     panels:
     - ['output', 'Dev Server']
+meta:
+  description: A Node.js tutorial
 ---
