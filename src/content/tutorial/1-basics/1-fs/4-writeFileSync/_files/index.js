@@ -1,4 +1,4 @@
-import fs from 'fs';
+import fs from 'node:fs';
 
 const NAME_OF_THE_FILE;
 const FILE_CONTENT;
