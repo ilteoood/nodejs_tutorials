@@ -12,4 +12,4 @@ But to read a file, we also need to write it...right? 🤔
 
 Well, this will be the topic of this lesson! 🥳
 
-To achieve it, this time we will the `writeFileSync` function the `fs` module.
+To achieve it, this time we will use the `writeFileSync` function from the `fs` module.
