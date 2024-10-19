@@ -1,10 +1,10 @@
 ---
 type: lesson
-title: The promises module variant
+title: "Reading a file: the promises module variant"
 focus: /index.js
 ---
 
-# The promises module variant
+# Reading a file: the promises module variant
 
 `readFileSync` is a quick way to read the contents of a file. It's fine to use it for small files, but for large files you could [block the Event Loop](https://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop).
 
